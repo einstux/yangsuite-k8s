@@ -4,5 +4,5 @@ yangsuite-restconf==2.1.11
 yangsuite-grpc-telemetry==1.0.9
 yangsuite-coverage==3.0.18
 yangsuite-gnmi==2.7.15
-uwsgi==2.0.28
+uwsgi==2.0.29
 psycopg2==2.9.10
